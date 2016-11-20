@@ -17,6 +17,13 @@ h2 {
     float: right;
     font: Arial
 }
+#chicken {
+    background-color: blue;
+}
+
+#beef {
+    background-color: red;
+}
 
 .margin {
     margin: 10px;
